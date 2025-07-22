@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "name": "Purification",
+      "icon": "drop.fill",
+      "subcategories": [
+        {
+          "name": "Wudu",
+          "rulings": [
+            {
+              "title": "Shafi'i Steps",
+              "items": [
+                "Intention (niyyah)",
+                "Wash hands 3 times",
+                "Rinse mouth 3 times",
+                "Sniff water into nose 3 times"
+              ],
+              "madhab": "shafi"
+            },
+            {
+              "title": "Hanafi Steps",
+              "items": [
+                "Intention (niyyah)",
+                "Wash hands 3 times (recommended)",
+                "Rinse mouth 3 times (recommended)"
+              ],
+              "madhab": "hanafi"
+            },
+            {
+              "title": "Common Nullifiers",
+              "items": [
+                "Passing gas, urine or feces",
+                "Loss of consciousness"
+              ],
+              "notes": "Applies to all madhabs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prayer",
+      "icon": "person.2.fill",
+      "subcategories": [
+        {
+          "name": "Obligatory Prayers",
+          "rulings": [
+            {
+              "title": "Daily Prayers",
+              "items": [
+                "Fajr: 2 rak'ahs",
+                "Dhuhr: 4 rak'ahs",
+                "Asr: 4 rak'ahs"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
