@@ -1,166 +1,56 @@
 {
   "categories": [
     {
-      "name": "Fasting",
-      "icon": "flame.fill",
+      "name": "Purification",
+      "icon": "drop.fill",
       "subcategories": [
         {
-          "name": "Basics of Fasting",
+          "name": "Wudu",
           "rulings": [
             {
-              "title": "Fasting Rules (All Madhabs)",
+              "title": "Shafi'i Steps",
               "items": [
-                "Fasting means not eating, drinking, or doing anything that breaks your fast from Fajr to Maghrib.",
-                "You must make the intention (niyyah) before Fajr for it to count.",
-                "Swallowing food, drink, or anything through the mouth or nose breaks the fast.",
-                "Deliberate vomiting breaks the fast (Hanafi: if it\u2019s a mouthful).",
-                "If you forget and eat, your fast is still valid \u2014 just stop immediately."
+                "Intention (niyyah)",
+                "Wash hands 3 times",
+                "Rinse mouth 3 times",
+                "Sniff water into nose 3 times"
               ],
-              "madhab": "all"
-            }
-          ]
-        },
-        {
-          "name": "Excuses and Exceptions",
-          "rulings": [
+              "madhab": "shafi"
+            },
             {
-              "title": "Who Doesn't Have to Fast?",
+              "title": "Hanafi Steps",
               "items": [
-                "Young children (before puberty)",
-                "Elderly people who cannot physically fast (must feed a poor person per day)",
-                "Sick people \u2014 they can make up missed fasts later",
-                "Travelers (if it\u2019s difficult) \u2014 they can also make up the fasts later"
+                "Intention (niyyah)",
+                "Wash hands 3 times (recommended)",
+                "Rinse mouth 3 times (recommended)"
               ],
-              "madhab": "all"
-            }
-          ]
-        },
-        {
-          "name": "Making Up Missed Fasts",
-          "rulings": [
+              "madhab": "hanafi"
+            },
             {
-              "title": "Qada and Kaffarah",
+              "title": "Common Nullifiers",
               "items": [
-                "If you miss a fast for a valid reason (travel, sickness), just make it up later (Qada).",
-                "If you break your fast without excuse, you must fast 60 continuous days (Kaffarah) or feed 60 poor people (Hanafi).",
-                "Shafi\u2018i: Kaffarah is only for intentional intercourse during the fast; other breaks require Qada only."
-              ]
+                "Passing gas, urine or feces",
+                "Loss of consciousness"
+              ],
+              "notes": "Applies to all madhabs"
             }
           ]
         }
       ]
     },
     {
-      "name": "Zakat",
-      "icon": "dollarsign.circle.fill",
+      "name": "Prayer",
+      "icon": "person.2.fill",
       "subcategories": [
         {
-          "name": "Zakat on Money",
+          "name": "Obligatory Prayers",
           "rulings": [
             {
-              "title": "Zakat Basics",
+              "title": "Daily Prayers",
               "items": [
-                "You must own a minimum amount (called *nisab*) for one full lunar year to pay zakat.",
-                "If your money is equal to 87.48g of gold or 612.36g of silver, you must pay 2.5% of it.",
-                "Zakat is given to the poor, orphans, and others in need.",
-                "You cannot give zakat to your parents, children, or spouse."
-              ],
-              "madhab": "all"
-            }
-          ]
-        },
-        {
-          "name": "Zakat al-Fitr",
-          "rulings": [
-            {
-              "title": "Zakat at Eid",
-              "items": [
-                "Zakat al-Fitr is given before Eid prayer to help the poor enjoy Eid.",
-                "Shafi\u2018i: Must be given in food (e.g. rice, wheat).",
-                "Hanafi: Can be given in money.",
-                "Required for every Muslim (including babies) if you can afford it."
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Business & Money",
-      "icon": "cart.fill",
-      "subcategories": [
-        {
-          "name": "Halal and Haram Income",
-          "rulings": [
-            {
-              "title": "General Rules",
-              "items": [
-                "Earning money is halal as long as the work is halal (not gambling, selling alcohol, etc).",
-                "Cheating, lying, or deceiving people in business is haram.",
-                "Working with interest (riba) is haram \u2014 this includes charging or paying it.",
-                "Selling things that harm others (e.g., drugs, alcohol, fake items) is not allowed."
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Buying and Selling Rules",
-          "rulings": [
-            {
-              "title": "Simple Business Guidelines",
-              "items": [
-                "Buyer and seller must agree clearly \u2014 no tricks.",
-                "Don't sell something you don't own yet.",
-                "If there's a problem with the product, tell the buyer.",
-                "All contracts must be free from major uncertainty (gharar)."
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Daily Life",
-      "icon": "sparkles",
-      "subcategories": [
-        {
-          "name": "Technology & Phones",
-          "rulings": [
-            {
-              "title": "Using Social Media",
-              "items": [
-                "Don\u2019t share haram content (music, gossip, immodesty).",
-                "Avoid wasting too much time scrolling \u2014 use your time wisely.",
-                "Online arguments and mocking others is not allowed.",
-                "Guard your modesty even online \u2014 what you post reflects your character."
-              ]
-            }
-          ]
-        },
-        {
-          "name": "School & Studies",
-          "rulings": [
-            {
-              "title": "Being a Muslim at School",
-              "items": [
-                "It\u2019s allowed to attend regular school as long as you avoid haram things.",
-                "You should pray on time, even during school (ask for permission respectfully).",
-                "Respecting teachers, classmates, and rules is part of good Islamic character.",
-                "Studying hard is a form of worship (if you do it for a good purpose)."
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Clothing & Appearance",
-          "rulings": [
-            {
-              "title": "General Guidelines",
-              "items": [
-                "Clothes should be modest, not tight or see-through.",
-                "Boys should cover from navel to knees; girls should cover their whole body except face and hands (at minimum).",
-                "Imitating people who dress immodestly is discouraged.",
-                "Don\u2019t wear things with offensive or haram images (e.g., music bands, inappropriate cartoons)."
+                "Fajr: 2 rak'ahs",
+                "Dhuhr: 4 rak'ahs",
+                "Asr: 4 rak'ahs"
               ]
             }
           ]
