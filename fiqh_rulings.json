@@ -5,52 +5,72 @@
       "icon": "drop.fill",
       "subcategories": [
         {
-          "name": "Wudu",
+          "name": "Wudu (Ablution)",
           "rulings": [
             {
-              "title": "Shafi'i Steps",
+              "title": "Shafi'i Madhhab - Steps of Wudu",
+              "madhab": "shafi",
               "items": [
-                "Intention (niyyah)",
-                "Wash hands 3 times",
-                "Rinse mouth 3 times",
-                "Sniff water into nose 3 times"
-              ],
-              "madhab": "shafi"
+                "Make intention (niyyah) for wudu",
+                "Say 'Bismillah' before beginning",
+                "Wash hands up to the wrists three times",
+                "Rinse mouth (madmadah) three times",
+                "Sniff water into nose and expel (istinshaq) three times",
+                "Wash face from hairline to chin and ear to ear three times",
+                "Wash both arms up to and including elbows three times",
+                "Wipe over the head (masah) once, including ears",
+                "Wash both feet up to and including ankles three times",
+                "Maintain the prescribed sequence (tartib) and continuity (muwalat)"
+              ]
             },
             {
-              "title": "Hanafi Steps",
+              "title": "Hanafi Madhhab - Steps of Wudu",
+              "madhab": "hanafi",
               "items": [
-                "Intention (niyyah)",
-                "Wash hands 3 times (recommended)",
-                "Rinse mouth 3 times (recommended)"
-              ],
-              "madhab": "hanafi"
+                "Make intention (niyyah) for wudu",
+                "Say 'Bismillah' (recommended)",
+                "Wash both hands up to the wrists three times (sunnah)",
+                "Rinse mouth three times (sunnah)",
+                "Sniff water into nose and expel three times (sunnah)",
+                "Wash entire face three times (obligatory once)",
+                "Wash arms including elbows three times (obligatory once)",
+                "Wipe one-fourth of the head once (obligatory)",
+                "Wipe ears (sunnah)",
+                "Wash both feet including ankles three times (obligatory once)",
+                "Follow sequence is not obligatory but preferred"
+              ]
             },
             {
-              "title": "Common Nullifiers",
+              "title": "Nullifiers of Wudu (All Madhhabs)",
+              "notes": "These actions break wudu and require renewal before the next prayer.",
               "items": [
-                "Passing gas, urine or feces",
-                "Loss of consciousness"
-              ],
-              "notes": "Applies to all madhabs"
+                "Anything that exits from the private parts (e.g., urine, feces, gas)",
+                "Loss of consciousness (e.g., deep sleep, fainting)",
+                "Touching private parts directly (varies by madhhab)",
+                "Vomiting a mouthful (disagreed upon, obligatory to renew in some madhhabs)",
+                "Bleeding (breaks wudu in Hanafi, not necessarily in others)"
+              ]
             }
           ]
         }
       ]
     },
     {
-      "name": "Prayer",
+      "name": "Prayer (Salah)",
       "icon": "person.2.fill",
       "subcategories": [
         {
           "name": "Obligatory Prayers",
           "rulings": [
             {
-              "title": "Daily Prayers",
+              "title": "Daily Fard Prayers",
+              "notes": "These are the five obligatory prayers in Islam.",
               "items": [
-                "Fajr: 2 rak'ahs",
-                "Dhuhr: 4 rak'ahs",
-                "Asr: 4 rak'ahs"
+                "Fajr – 2 rak'ahs (before sunrise)",
+                "Dhuhr – 4 rak'ahs (after noon)",
+                "Asr – 4 rak'ahs (mid-afternoon)",
+                "Maghrib – 3 rak'ahs (just after sunset)",
+                "Isha – 4 rak'ahs (nightfall)"
               ]
             }
           ]
